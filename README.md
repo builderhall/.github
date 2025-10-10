@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://your-banner-image-link-here" alt="Builder Hall Banner" width="100%" />
+  <img src="https://github.com/builderhall/.github/blob/main/builderhall.png" alt="Builder Hall Banner" width="50%" />
 </p>
 
 <h1 align="center">🏗️ Builder Hall Ltd</h1>
