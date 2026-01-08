@@ -1,105 +1,79 @@
-<!-- Banner Section -->
-<p align="center">
-  <img src="https://github.com/builderhall/.github/blob/main/builderhall.png" alt="Builder Hall Banner" width="50%" />
-</p>
-
-<h1 align="center">🏗️ Builder Hall Ltd</h1>
-
-<p align="center">
-  <strong>Innovating Through Code | Building the Digital Future</strong><br>
-  Empowering businesses with technology-driven solutions since 2021.
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/builderhall/.github/main/builderhall.png" width="120" alt="Builder Hall Logo" />
+  <h1>🏗️ Builder Hall Ltd</h1>
+  
+  <a href="https://builderhall.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Innovating+Through+Code;Building+the+Digital+Future;Empowering+Business+with+Technology;Dhaka-based+Software+Solutions" alt="Typing SVG" />
+  </a>
+</div>
 
 <p align="center">
-  <a href="https://www.builderhall.com">🌐 Website</a> •
-  <a href="mailto:contact@builderhall.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/company/builderhallprivateltd">💼 LinkedIn</a> •
-  <a href="https://giglovin.com">🧩 GigLovin</a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Founded-2021-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Headquarters-Dhaka%2C%20Bangladesh-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Team-Tech%20Innovators-orange?style=flat-square" />
+  <a href="https://weather.com/weather/today/l/Dhaka">
+    <img src="https://img.shields.io/badge/HQ-Dhaka%2C%20BD-red?style=for-the-badge&logo=google-maps&logoColor=white" />
+  </a>
+  <a href="https://builderhall.com">
+    <img src="https://img.shields.io/website?url=https%3A%2F%2Fbuilderhall.com&style=for-the-badge&label=System%20Status" />
+  </a>
+  <img src="https://img.shields.io/badge/Since-2021-blue?style=for-the-badge&logo=time&logoColor=white" />
 </p>
 
 ---
 
-## 🧠 About Us
+<h3 align="center">🚀 Mission Control</h3>
 
-**Builder Hall Ltd** is a **Bangladesh-based software and web development company** that crafts digital products to accelerate business growth.  
-Founded by **Fattain N.** in **2021**, Builder Hall combines creativity, strategy, and technology to deliver impactful solutions for modern enterprises.
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <a href="https://builderhall.com/services">
+          <img src="https://img.shields.io/badge/📱_App_Dev-Flutter_%26_React_Native-20232a?style=flat-square" /><br/>
+          <sub>Cross-platform mobile solutions</sub>
+        </a>
+      </td>
+      <td align="center" width="200">
+        <a href="https://builderhall.com/web">
+          <img src="https://img.shields.io/badge/💻_Web_Dev-Next.js_%26_Django-000000?style=flat-square" /><br/>
+          <sub>High-performance web apps</sub>
+        </a>
+      </td>
+      <td align="center" width="200">
+        <a href="https://giglovin.com">
+          <img src="https://img.shields.io/badge/🧩_GigLovin-Freelance_Marketplace-blueviolet?style=flat-square" /><br/>
+          <sub>Our flagship platform</sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
----
+<br/>
 
-## 🚀 Our Services
+<h3 align="center">🛠️ Core Engine</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,flutter,nodejs,django,laravel,postgres,mongodb,docker,aws,firebase&perline=6" />
+</div>
 
-### 💻 Software & Mobile App Development
-We build **custom applications** that enhance business operations, efficiency, and profitability.
+<br/>
 
-### 🌐 Web Development & Design
-We create **visually engaging and responsive websites** that connect brands with their audiences.
-
-### 📣 Digital Marketing
-Strategic **marketing campaigns** designed to boost brand awareness, engagement, and conversions.
-
-### 🎨 Graphic Design
-We deliver **creative visual assets** that amplify brand identity across digital and print media.
-
----
-
-## 🧩 Associated Company — GigLovin
-**[GigLovin](https://giglovin.com)** is our affiliated platform:  
-A **secure freelancing marketplace** for **clients and freelancers in Bangladesh**, promoting fair opportunities and reliable collaboration.
-
----
-
-## 👥 Leadership
-
-| Role | Name | Since |
-|------|------|--------|
-| **Founder & CEO** | [Fattain N.](https://iamnaime.info.bd) | November 2021 |
-
----
-
-## 🏢 Locations
-
-| City | Office Type |
-|------|--------------|
-| **Dhaka** | Head Office |
-| **Bagerhat** | Regional Office |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=builderhall&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=builderhall&layout=compact&theme=transparent&hide_border=true&title_color=2F80ED" height="160" alt="languages graph" />
+</div>
 
 ---
 
-## 🌟 Our Mission
-> “At Builder Hall, we don’t just build software — we build the digital foundations for success.”
-
-We aim to **empower businesses through technology**, fostering innovation, scalability, and impact.
-
----
-
-## 🛠️ Tech Stack
-
-| Category | Technologies |
-|-----------|---------------|
-| **Frontend** | React, Next.js, Vue.js |
-| **Backend** | Node.js, Django, Laravel |
-| **Mobile** | Flutter, React Native |
-| **Database** | MySQL, PostgreSQL, MongoDB |
-| **Cloud & DevOps** | AWS, Docker, Firebase |
-
----
-
-## 🤝 Connect With Us
-
-📧 **Email:** contact@builderhall.com  
-🌍 **Website:** [www.builderhall.com](#)  
-💼 **LinkedIn:** [Builder Hall Ltd](https://www.linkedin.com/company/builderhallprivateltd)  
-🐦 **X:** [@BuilderHallLTD](https://x.com/BuilderHallLTD)
-
----
-
-<p align="center">
-  <b>Builder Hall Ltd — Empowering Businesses Through Smart Technology</b><br>
-  <sub>© 2021–Present | Dhaka, Bangladesh</sub>
-</p>
+<div align="center">
+  <h3>🤝 Interface With Us</h3>
+  <p>
+    <a href="mailto:contact@builderhall.com">
+      <img src="https://img.shields.io/badge/Email_Us-contact%40builderhall.com-EA4335?style=social&logo=gmail" />
+    </a>
+    <a href="https://www.linkedin.com/company/builderhallprivateltd">
+      <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=social&logo=linkedin" />
+    </a>
+    <a href="https://x.com/BuilderHallLTD">
+      <img src="https://img.shields.io/badge/Follow-X_(Twitter)-000000?style=social&logo=x" />
+    </a>
+  </p>
+  <sub><b>Builder Hall Ltd</b> • Innovating from Dhaka to the World 🌍</sub>
+</div>
